@@ -12,7 +12,7 @@ Buffers are instances of the `Buffer` class in node, which is designed to handle
 
 ## Where You See Buffers:
 
-In the wild, buffers are usually seen in the context of binary data coming from streams, such as `fs.createReadStream`.
+In the wild, buffers are usaually seen in the context of binary data coming from streams, such as `fs.createReadStream`.
 
 ## Usage:
 
